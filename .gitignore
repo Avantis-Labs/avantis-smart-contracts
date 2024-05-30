@@ -1,0 +1,12 @@
+.env
+.openzeppelin/
+cache
+cache_forge
+artifacts
+lib/
+out
+broadcast/
+*.DS_Store
+node_modules
+*.lock
+typechain-types/
